@@ -1,2 +1,2 @@
 # Website http://sergeicher.pro/
-Personal Pofrtfolio
+Personal Portfolio
